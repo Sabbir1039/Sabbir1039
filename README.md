@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sabbir Hossain
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Data Analyst
+- 🌱 I’m currently learning Data Analysis
 - 📫 How to reach me? my gmail: sabbirmd31948@gmail.com
 
 <!---
