@@ -3,7 +3,7 @@
 ![Full Stack Web Developer](https://github.com/Sabbir1039/Sabbir1039/blob/main/Banner.png)
 
 
-Skills: JavaScript / Python / C++ / Django / HTML / CSS / Bootstrap 5 / Pandas / MS Excel /
+Skills: JavaScript / Python / C++ / Django / MySQL / HTML / CSS / Bootstrap 5 / Pandas / MS Excel /
 
 - 🔭 I’m currently learning to solve programming problems. 
 
