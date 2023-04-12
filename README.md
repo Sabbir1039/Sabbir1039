@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Md. Sabbir Hossain
 #### Full Stack Web Developer
-![Full Stack Web Developer](https://github.com/Sabbir1039/Sabbir1039/blob/main/Banner.png)
+![Full Stack Web Developer](https://github.com/Sabbir1039/Sabbir1039/blob/main/Banner2.png)
 
 
 Skills: JavaScript / Python / C++ / Django / MySQL / HTML / CSS / Bootstrap 5 / Git / Pandas / MS Excel /
