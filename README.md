@@ -7,13 +7,9 @@ Skills: JavaScript / Python / C++ / Django / MySQL / HTML / CSS / Bootstrap 5 / 
 
 - 🔭 I’m currently learning Django and ReactJS. 
 
-### Github Contribution Activity
-
-<img src="https://github.com/Sabbir1039.png?size=100" alt="GitHub Activity Chart">
-
 ### My Github Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sabbir1039&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sabbir1039&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sabbir1039)  
 
