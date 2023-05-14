@@ -1,7 +1,7 @@
 <h1 style="text-align: center;">Md. Sabbir Hossain</h1>
 <h3 style="text-align: center;">>Full Stack Web Developer</h3>
 <h3 style="text-align: center;">>Python Data Analyst</h3>
-![Full Stack Web Developer](https://github.com/Sabbir1039/Sabbir1039/blob/main/Banner2.png)
+<img src= "https://github.com/Sabbir1039/Sabbir1039/blob/main/Banner2.png" alt="Full Stack Python Developer">
 
 
 ## Programming Languages
