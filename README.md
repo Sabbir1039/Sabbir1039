@@ -5,16 +5,15 @@
 
 
 ## Programming Languages
-<hr>
-### Python, Javascript, C++, HTML/CSS
+#### Python, Javascript, C++, HTML/CSS
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" alt="Python" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/1024px-HTML5_Badge.svg.png" alt="HTML" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" width="40" height="40"/> 
 
 ## Databases
-### MySQL, SQLite, MongoDB
+#### MySQL, SQLite, MongoDB
 <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" width="50"/> <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" alt="SQLite" width="50"/> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/mongodb_logo_icon_170943.png" alt="MongoDB" width="50"/>
 
 ## Frameworks
-### Django, Scrapy
+#### Django, Scrapy
 <img src="https://www.djangoproject.com/m/img/logos/django-logo-positive.png" alt="Django" width="40" height="40"/>  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Scrapy_logo.jpg" alt="Scrapy" width="40" height="40"/> 
 
 ## Social Media
