@@ -3,7 +3,7 @@
   <h4> Full Stack Web Developer </h4>
   <h4> Python Data Analyst </h4>
 </p>
-<img src= "https://github.com/Sabbir1039/Sabbir1039/blob/main/Banner2.png" alt="Full Stack Python Developer">
+<img src= "https://github.com/Sabbir1039/Sabbir1039/blob/main/Banner2.png" alt="Full Stack Python Developer" height="300px" width="400px">
 
 
 ## Programming Languages
