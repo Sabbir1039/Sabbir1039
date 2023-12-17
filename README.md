@@ -14,7 +14,7 @@
 
 
 ## Frameworks
-#### Django, Scrapy, Bootstrap
+#### Django, ReactJS, Bootstrap
 <img src="https://www.djangoproject.com/m/img/logos/django-logo-positive.png" alt="Django" width="50" height="50"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/120px-React_Logo_SVG.svg.png" alt="ReactJS" width="50" height="50"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/800px-Bootstrap_logo.svg.png" alt="Bootstrap" width="50" height="50"/> 
 
 ## Social Media
