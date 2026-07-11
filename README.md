@@ -126,9 +126,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sabbir1039&show_icons=true&theme=transparent&border_color=10B981&bg_color=0F172A&title_color=10B981&icon_color=34D399&text_color=E2E8F0&hide_border=false" height="180" />
+<img src="https://github-stats-extended.vercel.app/api?username=Sabbir1039&show_icons=true&theme=transparent&border_color=10B981&bg_color=0F172A&title_color=10B981&icon_color=34D399&text_color=E2E8F0&hide_border=false" height="180" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sabbir1039&layout=compact&theme=transparent&border_color=10B981&bg_color=0F172A&title_color=10B981&text_color=E2E8F0" height="180" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=Sabbir1039&layout=compact&theme=transparent&border_color=10B981&bg_color=0F172A&title_color=10B981&text_color=E2E8F0" height="180" />
 
 <br/>
 <br/>
